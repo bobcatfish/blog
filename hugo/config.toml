@@ -1,0 +1,15 @@
+baseURL = "https://bobcatfish.com"
+languageCode = "en-us"
+title = "Christie Wilson's Blog"
+theme = "beautifulhugo"
+
+[Params]
+  readingTime = true
+  rss = true
+  logo = "deal_with_it_cat.png"
+  favicon = "deal_with_it_cat.png"
+
+[Author]
+  name = "Christie Wilson"
+  github = "bobcatfish"
+  twitter = "bobcatwilson"
